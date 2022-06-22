@@ -1,0 +1,85 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
+}
+
+.card1{
+    align-items: center;
+    display: inline-block;
+    position: relative;
+    left: 37%;
+    top: 90px;
+}
+
+.card2{
+    align-items: center;
+    width: 700px;
+    display: inline-block;
+    position: relative;
+    left: 22%;
+    top: 100px;
+}
+
+hr{
+    width: 90%;
+    align-items: center;
+}
+
+form{
+    width: 90%;
+    align-items: center;
+    border-radius: 10px;
+    background-color: #f8f9fa;
+    padding: 15px;
+    position: relative;
+    left: 60px;
+    top: 80px;
+}
+
+#tituloEdit{
+    position: relative;
+    left: 7%;
+    top: 70px;
+}
+
+.table{
+    width: 80%;
+    align-items: center;
+    border-radius: 20px;
+    background-color: #f8f9fa;
+    padding: 15px;
+    position: relative;
+    left: 10%;
+    top: 80px;
+}
+
+#botonList1{
+    float: right;
+}
+
+#botonList2{
+    float: right;
+    position: relative;
+    right: 25px;
+}
+
+#botonList3{
+    float: right;
+    position: relative;
+    right: 50px;
+}
+
+.navbar{
+    width: 100%;
+}
+
+.box{
+    width: 80%;
+    align-items: center;
+    border-radius: 20px;
+    background-color: #f8f9fa;
+    padding: 15px;
+    position: relative;
+    left: 10%;
+    top: 80px;
+}
